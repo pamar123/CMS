@@ -53,4 +53,7 @@ pg (PostgreSQL client for Node.js)
 
 This project is licensed under the MIT License.
 
-You can copy and paste this README.md into your project, update the <repository-url> with your GitHub repository link, and you're all set! Let me know if you need further changes.
+**Walkthrough Video**
+
+https://drive.google.com/file/d/1dLzif2ytmJA6sf9leQK-1m2OW3H0gFSM/view?usp=sharing
+
